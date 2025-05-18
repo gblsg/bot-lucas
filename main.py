@@ -263,7 +263,7 @@ async def fechar_ticket(interaction: discord.Interaction):
 
 
 
-bot.run("MTMwNDYxNDQzNDgzNjMyMDMzOA.GWMvZd.ghFvrB76ysOpMwI7QFlifahxaJYHOKcA-Z-UGg")
+
 
 
 
